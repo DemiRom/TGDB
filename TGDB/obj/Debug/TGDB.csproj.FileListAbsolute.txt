@@ -1,0 +1,9 @@
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\bin\Debug\TGDB.exe.config
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\bin\Debug\TGDB.exe
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\bin\Debug\TGDB.pdb
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.csprojResolveAssemblyReference.cache
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.Login.resources
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.Properties.Resources.resources
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.csproj.GenerateResource.Cache
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.exe
+c:\users\demetry\documents\visual studio 2013\Projects\TGDB\TGDB\obj\Debug\TGDB.pdb
